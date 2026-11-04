@@ -1,0 +1,9 @@
+Still unverified: the FADGI scan resolutions (I only found forum figures), the WebXR and Apple spatial photo output, and the FoundationStereo code license. The Landry slide comes from a search summary only. These are marked in the plan.
+
+Questions for you
+1. Is this Truman Library only, or Eisenhower and others too? This affects the project's size more than anything else.
+2. Is this a Library project like HST-Metadata, or independent? That decides scan access, hosting and branding.
+3. Who would do the scanning, and on what equipment? Realist mounts probably won't fit a standard 35mm film scanner holder. Some commercial services also scan only one eye, which is how you end up with a 2008-175 situation.
+4. Should depth products be in scope? I recommend deferring them until the pilot scans are in.
+
+Phase 1, the processing pipeline on the Keystone cards, doesn't depend on any of these answers, so I can start it whenever you like. I can also turn the plan into a shareable doc if you want to send it to the Library.
