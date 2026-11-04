@@ -1,5 +1,7 @@
 # Feasibility and Optical Physics of Creating Holograms from Stereoscopic Images
 
+*Last updated: 2026-11-04-1522*
+
 Converting a standard stereoscopic image pair (a two-view left/right image set) into a functional hologram or light field display is **highly feasible** using modern computer vision and specialized optical hardware. 
 
 However, a fundamental physical gap exists: a stereo pair provides only **two fixed perspectives**, whereas a true hologram or light field display requires a **continuous angular continuum of light rays** (dozens to hundreds of perspectives) to produce full horizontal and vertical motion parallax without requiring special glasses.
@@ -97,3 +99,7 @@ For hardcopy holographic prints made from stereo imagery:
 | **View Synthesis** | High | 3D Gaussian Splatting, NeRFs, generative AI inpainting |
 | **Digital Real-Time Display** | High | Lenticular light field monitors (Looking Glass, Leia) |
 | **Hardcopy Hologram** | High | Laser-exposed holographic stereograms (Hogels) |
+
+---
+
+*Last updated: 2026-11-04-1522*

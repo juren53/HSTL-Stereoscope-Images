@@ -1,6 +1,8 @@
 # Viewing Modes
 
-Detail for the viewing mode switch in Phase 3 of [PLAN.md](PLAN.md). It covers how each mode produces depth, what the viewer has to do, and how to build it.
+*Last updated: 2026-11-04-1527*
+
+Detail for the viewing mode switch in Phase 3 of [PLAN_HSTL-Stereoscope-Images.md](PLAN_HSTL-Stereoscope-Images.md). It covers how each mode produces depth, what the viewer has to do, and how to build it.
 
 ## The modes at a glance
 
@@ -248,3 +250,7 @@ Timing, sizing and scale figures not linked here are starting values or calculat
 - [A-Frame layers component](https://awesome.ecosyste.ms/projects/github.com%2Fbryik%2Faframe-layers-component), per-eye layer behavior
 - [WebXR on visionOS (Brown VR wiki)](https://www.vrwiki.cs.brown.edu/hardware/vr-hardware/apple-vision-pro/development-approaches-for-visionos/webxr-on-visionos), [Apple developer forums: WebXR](https://developers.apple.com/forums/tags/webxr), [WebXR browser support overview](https://www.issoh.co.jp/tech/details/7076/)
 - [Realist 3.5 specifications](https://stereoscopy.com/cameras/realist-35.html)
+
+---
+
+*Last updated: 2026-11-04-1527*

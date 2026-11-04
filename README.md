@@ -1,12 +1,14 @@
 # HSTL Stereoscope Images
 
+*Last updated: 2026-11-04-1527*
+
 Processing historic stereo photographs of Harry S. Truman and his contemporaries, and presenting them to the public the way NASA/JPL present Mars rover stereo imagery.
 
 ## Status
 
 Planning stage. There is no code yet. The repository holds the project plan, background research, and one sample image.
 
-Phase 1, a reference pipeline built on public-domain Keystone View Co. stereographs, can start now. Four decisions are still open: scope, the project's standing with the Library, who does the scanning, and whether depth products are in scope. See [Decisions needed](PLAN.md#decisions-needed).
+Phase 1, a reference pipeline built on public-domain Keystone View Co. stereographs, can start now. Four decisions are still open: scope, the project's standing with the Library, who does the scanning, and whether depth products are in scope. See [Decisions needed](PLAN_HSTL-Stereoscope-Images.md#decisions-needed).
 
 ## Approach
 
@@ -44,10 +46,13 @@ Each level can be reproduced from the one below, and nothing overwrites a master
 
 | Path | Description |
 |---|---|
-| [PLAN.md](PLAN.md) | Project plan: sources, feasibility test, data model, phases, risks and decisions |
+| [PLAN_HSTL-Stereoscope-Images.md](PLAN_HSTL-Stereoscope-Images.md) | Project plan: sources, feasibility test, data model, phases, risks and decisions |
 | [VIEWING_MODES.md](VIEWING_MODES.md) | How each viewing mode works and how to build it: wiggle, anaglyph, cross-eyed, parallel and headset |
 | [Questions-for-planning.txt](Questions-for-planning.txt) | Open questions and items not yet verified |
 | [holograms_from_stereoscopic_images.md](holograms_from_stereoscopic_images.md) | Background: creating holograms and light field displays from stereo pairs |
-| [jpl_mars_rover_3d_image_processing.md](jpl_mars_rover_3d_image_processing.md) | Background: JPL's rover stereo pipeline |
-| [jpl_mars_rover_3d_image_processing-1.md](jpl_mars_rover_3d_image_processing-1.md) | Near-duplicate of the above, with a VR section and more links |
+| [jpl_mars_rover_3d_image_processing.md](jpl_mars_rover_3d_image_processing.md) | Background: JPL's rover stereo pipeline, with links to software, data archives and papers |
 | [Images/](Images) | Sample image `2008-175.jpg`, the public copy of one eye of a Truman stereo card |
+
+---
+
+*Last updated: 2026-11-04-1527*

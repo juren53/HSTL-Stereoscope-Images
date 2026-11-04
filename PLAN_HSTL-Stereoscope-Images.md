@@ -1,5 +1,7 @@
 # HSTL Stereoscopic Images: Project Plan
 
+*Last updated: 2026-11-04-1522*
+
 Draft, 2026-11-04. Goal: process historic stereo photographs of Harry S. Truman and his contemporaries, and present them to the public the way NASA/JPL present Mars rover stereo imagery.
 
 ## Summary
@@ -165,7 +167,7 @@ Build a static site, with deep zoom through OpenSeadragon or IIIF if needed. NYP
 
 ## Notes on the source docs
 
-- `jpl_mars_rover_3d_image_processing.md` and `-1.md` are near-duplicates. `-1` adds the VR section and more links, while the other adds CAHV model names and the literature list. They could be merged.
+- `jpl_mars_rover_3d_image_processing.md` merges two earlier near-duplicate drafts: it keeps the CAHV model names and literature list from one, and the VR section and links from the other.
 - Both credit ASP and ISIS for rover work without mentioning VICAR/MIPL, which is what the Pathfinder and MER sources describe.
 
 ## Sources
@@ -182,3 +184,7 @@ Build a static site, with deep zoom through OpenSeadragon or IIIF if needed. NYP
 - [Library of Congress on FADGI Third Edition](https://blogs.loc.gov/thesignal/2023/05/fadgi-third-edition-still-image/)
 - [NYPL Stereogranimator, Library Journal](https://www.libraryjournal.com/story/nypl-animator-recreates-19th-century-stereograph-effect), [2024 follow-up, PetaPixel](https://petapixel.com/2024/05/08/these-animated-stereograms-bring-19th-century-photos-to-life/)
 - [FoundationStereo](https://github.com/NVlabs/FoundationStereo), [NGC model card](https://catalog.ngc.nvidia.com/orgs/nvidia/tao/models/foundationstereo)
+
+---
+
+*Last updated: 2026-11-04-1522*
