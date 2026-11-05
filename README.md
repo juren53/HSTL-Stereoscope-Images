@@ -1,6 +1,6 @@
 # HSTL Stereoscope Images
 
-*Last updated: 2026-11-04-1527*
+*Last updated: 2026-11-05-0703*
 
 Processing historic stereo photographs of Harry S. Truman and his contemporaries, and presenting them to the public the way NASA/JPL present Mars rover stereo imagery.
 
@@ -8,7 +8,7 @@ Processing historic stereo photographs of Harry S. Truman and his contemporaries
 
 Planning stage. There is no code yet. The repository holds the project plan, background research, and one sample image.
 
-Phase 1, a reference pipeline built on public-domain Keystone View Co. stereographs, can start now. Four decisions are still open: scope, the project's standing with the Library, who does the scanning, and whether depth products are in scope. See [Decisions needed](PLAN_HSTL-Stereoscope-Images.md#decisions-needed).
+Phase 1, a reference pipeline built on public-domain Keystone View Co. stereographs, can start now. This is a Truman Library project, limited to Truman Library collections, with Library staff doing the scanning. Depth products are deferred until the pilot scans are in. See [Decisions](PLAN_HSTL-Stereoscope-Images.md#decisions).
 
 ## Approach
 
@@ -55,4 +55,4 @@ Each level can be reproduced from the one below, and nothing overwrites a master
 
 ---
 
-*Last updated: 2026-11-04-1527*
+*Last updated: 2026-11-05-0703*

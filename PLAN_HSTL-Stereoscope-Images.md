@@ -1,6 +1,6 @@
 # HSTL Stereoscopic Images: Project Plan
 
-*Last updated: 2026-11-04-1522*
+*Last updated: 2026-11-05-0703*
 
 Draft, 2026-11-04. Goal: process historic stereo photographs of Harry S. Truman and his contemporaries, and present them to the public the way NASA/JPL present Mars rover stereo imagery.
 
@@ -21,7 +21,7 @@ Work can start now on public-domain stereographs that already have both halves o
 | `2008-175`, `2008-176` | Stereo cards (3.5x7 in) of Truman and his sister Mary Jane at a White House mantel, made by Lowell Mason. Truman's handwritten note to Margaret survives with them. | **Best candidates, but only one half is online.** See below. |
 | `67-4210`, `67-4223`, `67-4227` and likely others in the `67-42xx` series | Keystone View Co. WWI stereographs, 6x3 in, donated to Truman. | **Public domain, both halves online.** Ideal for development, but they date from WWI, not the 1950s. |
 | Robert B. Landry Papers | Stereo slide of the White House, ca. 1955. | Worth checking. Found only in a search summary, so not yet confirmed against the record. |
-| Eisenhower Library stereo slides | 1,154 slides, mostly 1948-1958, taken by Eisenhower and staff on a Realist camera. Covers the 1952 campaign, 1953 inauguration, 1953 Bermuda Conference and George VI's funeral. | **Strongest fit for "and others."** Different institution. Online availability and rights not established. |
+| Eisenhower Library stereo slides | 1,154 slides, mostly 1948-1958, taken by Eisenhower and staff on a Realist camera. Covers the 1952 campaign, 1953 inauguration, 1953 Bermuda Conference and George VI's funeral. | **Out of scope (decided 2026-11-05).** Kept as a reference. The [NARA record](https://catalog.archives.gov/id/245039984) lists a 149 GB digital copy at the Library, not online, and use is possibly restricted by copyright. Slide 71-917-1 is listed as showing Harry and Bess Truman on January 20, 1953. |
 
 Findings from inspecting the records:
 
@@ -92,7 +92,7 @@ File IDs follow the accession number, such as `2008-175_L2_left.tif`. A stereo p
 
 - Query the photo database for `Stereoscope` and list the stereo slides.
 - Establish for each item: format, date, photographer, rights, and whether a whole-object master exists.
-- Confirm the project's standing with the Library, and contact the Eisenhower Library if it is in scope.
+- Confirm the project's arrangements with the Library, including staff scanning capacity.
 - Choose a pilot set of 10 to 12 items that mixes cards and slides.
 
 **Exit:** a stereo inventory CSV, a chosen pilot set, and agreement on who may publish what.
@@ -151,19 +151,21 @@ Build a static site, with deep zoom through OpenSeadragon or IIIF if needed. NYP
 
 | Risk | Consequence | Response |
 |---|---|---|
-| Few 1950s Truman stereo images exist | Thin core content | Phase 0 answers this early. Broaden to Eisenhower or the WWI series. |
+| Few 1950s Truman stereo images exist | Thin core content | Phase 0 answers this early. Fall back on the WWI series, or revisit the Truman Library only scope. |
 | Second halves are missing or masters are cropped | Rescans needed | Check `2008-175` first. |
 | Rights unclear | Items cannot be published | The Mason cards read "unaware of any copyright claims; use at your own risk." Donated slides may carry restrictions. Check per item. |
 | Sequential exposures on non-Realist cameras | Subjects moved between eyes, so ghosting | QC flags it. Keep such items as 2D. |
 | Faded or mismatched color film | Eyes disagree, causing eye strain | Match eyes at L2. Use a color-optimized anaglyph method. |
 | Depth output read as measurement | Misleads the public | Label L4 clearly. Do not publish scale claims. |
 
-## Decisions needed
+## Decisions
 
-1. **Scope:** Truman Library only, or also Eisenhower and others? This sets the size of the project more than anything else.
-2. **Standing:** is this a Library project, like HST-Metadata, or independent? That determines scan access, hosting and branding.
-3. **Scanning:** who scans, and on what equipment?
-4. **Depth products:** in scope, or a later stretch goal? I recommend deferring them until Phase 2 results are in.
+Decided 2026-11-05:
+
+1. **Scope:** Truman Library only.
+2. **Standing:** a Library project, like HST-Metadata.
+3. **Scanning:** Library staff scan. The equipment is still to be chosen.
+4. **Depth products:** deferred until Phase 2 results are in.
 
 ## Notes on the source docs
 
@@ -187,4 +189,4 @@ Build a static site, with deep zoom through OpenSeadragon or IIIF if needed. NYP
 
 ---
 
-*Last updated: 2026-11-04-1522*
+*Last updated: 2026-11-05-0703*
