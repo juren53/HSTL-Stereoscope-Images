@@ -1,6 +1,6 @@
 # HSTL Stereoscopic Images: Project Plan
 
-*Last updated: 2026-11-05-0703*
+*Last updated: 2026-11-05-0711*
 
 Draft, 2026-11-04. Goal: process historic stereo photographs of Harry S. Truman and his contemporaries, and present them to the public the way NASA/JPL present Mars rover stereo imagery.
 
@@ -112,11 +112,11 @@ Proposed starting thresholds, to be tuned: vertical residual under 0.1% of eye w
 ### Phase 2: Master scans of the pilot set
 
 - Scan both halves in a single capture, which preserves their relative geometry.
-- Scan 3.5x7 cards on a flatbed or copy stand.
-- Realist mounts are about 41x101 mm and will likely not fit a 35mm film scanner holder, so use a flatbed with transparency support or a camera copy stand.
+- Scan 3.5x7 cards on a copy stand. FADGI says stereographs cannot go on a flatbed because they curve.
+- Realist mounts are about 41x101 mm and will likely not fit a 35mm film scanner holder, so use a camera copy stand. See [SCANNING_PROCEDURES.md](SCANNING_PROCEDURES.md).
 - Avoid vendors' default stereo service: at least one commercial service states that it scans only one side of each stereo slide, which would repeat the `2008-175` problem.
 - Decide with the archivist whether chips stay in their mounts.
-- Take the specifications from the FADGI Third Edition transparency tables. Forum figures of 3000-4000 ppi for 35mm are unconfirmed. At 4000 ppi a 24mm frame would be about 3,800 px per eye.
+- Follow the FADGI Third Edition transparency table, with 3-star (3000 ppi, 16-bit) as the minimum. 4-star is 4000 ppi. A 24mm frame gives about 2,800 px per eye at 3000 ppi and about 3,800 px at 4000 ppi.
 - Scan color and grayscale targets with each batch.
 
 **Exit:** pilot masters in hand, processed through L3, with depth range and alignment compared against the 800 px results.
@@ -189,4 +189,4 @@ Decided 2026-11-05:
 
 ---
 
-*Last updated: 2026-11-05-0703*
+*Last updated: 2026-11-05-0711*

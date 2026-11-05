@@ -1,6 +1,6 @@
 # HSTL Stereoscope Images
 
-*Last updated: 2026-11-05-0703*
+*Last updated: 2026-11-05-0711*
 
 Processing historic stereo photographs of Harry S. Truman and his contemporaries, and presenting them to the public the way NASA/JPL present Mars rover stereo imagery.
 
@@ -47,6 +47,7 @@ Each level can be reproduced from the one below, and nothing overwrites a master
 | Path | Description |
 |---|---|
 | [PLAN_HSTL-Stereoscope-Images.md](PLAN_HSTL-Stereoscope-Images.md) | Project plan: sources, feasibility test, data model, phases, risks and decisions |
+| [SCANNING_PROCEDURES.md](SCANNING_PROCEDURES.md) | Recommended scanning process for the stereo slides and cards: specification, equipment, procedure and pilot |
 | [VIEWING_MODES.md](VIEWING_MODES.md) | How each viewing mode works and how to build it: wiggle, anaglyph, cross-eyed, parallel and headset |
 | [Questions-for-planning.txt](Questions-for-planning.txt) | Open questions and items not yet verified |
 | [holograms_from_stereoscopic_images.md](holograms_from_stereoscopic_images.md) | Background: creating holograms and light field displays from stereo pairs |
@@ -55,4 +56,4 @@ Each level can be reproduced from the one below, and nothing overwrites a master
 
 ---
 
-*Last updated: 2026-11-05-0703*
+*Last updated: 2026-11-05-0711*
